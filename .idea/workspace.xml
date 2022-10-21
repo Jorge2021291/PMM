@@ -4,25 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="906a6cf1-70f0-43a1-b220-1b1bad2454e5" name="Changes" comment="">
+    <list default="true" id="906a6cf1-70f0-43a1-b220-1b1bad2454e5" name="Changes" comment="17">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/ejercicios/Ej1.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/ejercicios/Ej1.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/ejercicios/Ej10.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/ejercicios/Ej10.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/ejercicios/Ej11.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/ejercicios/Ej11.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/ejercicios/Ej12.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/ejercicios/Ej12.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/ejercicios/Ej13.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/ejercicios/Ej13.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/ejercicios/Ej14.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/ejercicios/Ej14.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/ejercicios/Ej15.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/ejercicios/Ej15.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/ejercicios/Ej16.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/ejercicios/Ej16.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/kotlin/ejercicios/Ej17.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/ejercicios/Ej17.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/ejercicios/Ej2.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/ejercicios/Ej2.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/ejercicios/Ej3.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/ejercicios/Ej3.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/ejercicios/Ej4.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/ejercicios/Ej4.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/ejercicios/Ej5.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/ejercicios/Ej5.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/ejercicios/Ej6.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/ejercicios/Ej6.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/ejercicios/Ej7.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/ejercicios/Ej7.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/ejercicios/Ej8.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/ejercicios/Ej8.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/ejercicios/Ej9.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/ejercicios/Ej9.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,14 +50,7 @@
       <recent name="D:\Users\JorgeYu\Documents\PMM\UD2\untitled\src\main\kotlin\ejercicios" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin.Ej16Kt">
-    <configuration name="Ej12Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ejercicios.Ej12Kt" />
-      <module name="untitled" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Kotlin.Ej17Kt">
     <configuration name="Ej13Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ejercicios.Ej13Kt" />
       <module name="untitled" />
@@ -102,13 +79,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Ej17Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ejercicios.Ej17Kt" />
+      <module name="untitled" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.Ej17Kt" />
         <item itemvalue="Kotlin.Ej16Kt" />
         <item itemvalue="Kotlin.Ej15Kt" />
         <item itemvalue="Kotlin.Ej14Kt" />
         <item itemvalue="Kotlin.Ej13Kt" />
-        <item itemvalue="Kotlin.Ej12Kt" />
       </list>
     </recent_temporary>
   </component>
@@ -121,6 +105,14 @@
       <option name="presentableId" value="Default" />
       <updated>1666093046695</updated>
     </task>
+    <task id="LOCAL-00001" summary="17">
+      <created>1666337742090</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1666337742090</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -133,5 +125,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="17" />
+    <option name="LAST_COMMIT_MESSAGE" value="17" />
   </component>
 </project>
