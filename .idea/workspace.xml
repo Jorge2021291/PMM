@@ -1,14 +1,48 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="906a6cf1-70f0-43a1-b220-1b1bad2454e5" name="Changes" comment="" />
+    <list default="true" id="906a6cf1-70f0-43a1-b220-1b1bad2454e5" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/ejercicios/Ej1.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/ejercicios/Ej1.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/ejercicios/Ej10.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/ejercicios/Ej10.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/ejercicios/Ej11.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/ejercicios/Ej11.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/ejercicios/Ej12.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/ejercicios/Ej12.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/ejercicios/Ej13.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/ejercicios/Ej13.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/ejercicios/Ej14.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/ejercicios/Ej14.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/ejercicios/Ej15.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/ejercicios/Ej15.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/ejercicios/Ej16.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/ejercicios/Ej16.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/ejercicios/Ej17.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/ejercicios/Ej17.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/ejercicios/Ej2.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/ejercicios/Ej2.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/ejercicios/Ej3.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/ejercicios/Ej3.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/ejercicios/Ej4.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/ejercicios/Ej4.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/ejercicios/Ej5.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/ejercicios/Ej5.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/ejercicios/Ej6.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/ejercicios/Ej6.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/ejercicios/Ej7.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/ejercicios/Ej7.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/ejercicios/Ej8.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/ejercicios/Ej8.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/ejercicios/Ej9.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/ejercicios/Ej9.kt" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Kotlin Class" />
+        <option value="Kotlin File" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2GJ3pzvbBy2sPCp7Ri8Re6kBHJB" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -16,12 +50,68 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Users/JorgeYu/Documents/PMM/UD2/untitled&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
   }
-}]]></component>
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Users\JorgeYu\Documents\PMM\UD2\untitled\src\main\kotlin\ejercicios" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Kotlin.Ej16Kt">
+    <configuration name="Ej12Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ejercicios.Ej12Kt" />
+      <module name="untitled" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ej13Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ejercicios.Ej13Kt" />
+      <module name="untitled" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ej14Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ejercicios.Ej14Kt" />
+      <module name="untitled" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ej15Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ejercicios.Ej15Kt" />
+      <module name="untitled" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ej16Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ejercicios.Ej16Kt" />
+      <module name="untitled" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Kotlin.Ej16Kt" />
+        <item itemvalue="Kotlin.Ej15Kt" />
+        <item itemvalue="Kotlin.Ej14Kt" />
+        <item itemvalue="Kotlin.Ej13Kt" />
+        <item itemvalue="Kotlin.Ej12Kt" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -32,5 +122,16 @@
       <updated>1666093046695</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
