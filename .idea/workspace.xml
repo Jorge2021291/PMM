@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="906a6cf1-70f0-43a1-b220-1b1bad2454e5" name="Changes" comment="17 end">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/ejercicios/Ej18.kt" afterDir="false" />
+    <list default="true" id="906a6cf1-70f0-43a1-b220-1b1bad2454e5" name="Changes" comment="18 end">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/ejercicios/Ej19.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -34,30 +34,23 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/Users/JorgeYu/Documents/PMM/UD2/untitled&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "D:/Users/JorgeYu/Documents/PMM/UD2/untitled",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\Users\JorgeYu\Documents\PMM\UD2\untitled\src\main\kotlin\ejercicios" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin.Ej18Kt">
-    <configuration name="Ej14Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ejercicios.Ej14Kt" />
-      <module name="untitled" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Kotlin.Ej19Kt">
     <configuration name="Ej15Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ejercicios.Ej15Kt" />
       <module name="untitled" />
@@ -86,13 +79,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Ej19Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ejercicios.Ej19Kt" />
+      <module name="untitled" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.Ej19Kt" />
         <item itemvalue="Kotlin.Ej18Kt" />
         <item itemvalue="Kotlin.Ej17Kt" />
         <item itemvalue="Kotlin.Ej16Kt" />
         <item itemvalue="Kotlin.Ej15Kt" />
-        <item itemvalue="Kotlin.Ej14Kt" />
       </list>
     </recent_temporary>
   </component>
@@ -119,7 +119,14 @@
       <option name="project" value="LOCAL" />
       <updated>1666339311188</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="18 end">
+      <created>1666340570926</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1666340570926</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -136,6 +143,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="17" />
     <MESSAGE value="17 end" />
-    <option name="LAST_COMMIT_MESSAGE" value="17 end" />
+    <MESSAGE value="18 end" />
+    <option name="LAST_COMMIT_MESSAGE" value="18 end" />
   </component>
 </project>
