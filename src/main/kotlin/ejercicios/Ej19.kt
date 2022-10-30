@@ -11,8 +11,6 @@ fun main() {
     var n2 = readln().toInt()
 
 
-    print("Que operacion deseas realizar: ")
-    var eleccion = readln().toInt()
 
     println("1: suma los operandos.\n" +
             "2: resta los operandos.\n" +
@@ -24,52 +22,53 @@ fun main() {
             "8: Salir")
 
 
+    print("Que operacion deseas realizar: ")
+    var eleccion = readln().toInt()
+
+
     while(salida){
-        when(eleccion){
-            1-> {print("n1+n2  \n");
+        if(eleccion == 1){
+            print(n1+n2);
+                print("\n" +
+                        " Que operacion deseas realizar: ")
+                eleccion = readln().toInt()
+        } else if(eleccion == 2){
+            print(n1-n2)
             print("\n" +
                     " Que operacion deseas realizar: ")
-                eleccion = readln().toInt()}
-            2-> {
-                print("\n" +
-                        " Que operacion deseas realizar: ")
-                eleccion = readln().toInt()}
-            3-> {print(n1*n2)
-                print("\n" +
-                        " Que operacion deseas realizar: ")
-                eleccion = readln().toInt()}
-            4-> {print(n1/n2)
-                print("\n" +
-                        " Que operacion deseas realizar: ")
-                eleccion = readln().toInt()}
-            5-> {print(Math.pow(n1.toDouble(), n2.toDouble()))
-                print("\n" +
-                        " Que operacion deseas realizar: ")
-                eleccion = readln().toInt()}
-            6-> {print(n1%n2)
-                print("\n" +
-                        " Que operacion deseas realizar: ")
-                eleccion = readln().toInt()}
-            7-> {
-                print("Introduce el primer numero: ")
-                n1 = readln().toInt()
+            eleccion = readln().toInt()}
+        else if (eleccion == 3){print(n1*n2)
+            print("\n" +
+                    " Que operacion deseas realizar: ")
+            eleccion = readln().toInt()}
+        else if (eleccion == 4){print(n1/n2)
+            print("\n" +
+                    " Que operacion deseas realizar: ")
+            eleccion = readln().toInt()}
+        else if (eleccion == 5){print(Math.pow(n1.toDouble(), n2.toDouble()))
+            print("\n" +
+                    " Que operacion deseas realizar: ")
+            eleccion = readln().toInt()}
+        else if(eleccion == 6){print(n1%n2)
+            print("\n" +
+                    " Que operacion deseas realizar: ")
+            eleccion = readln().toInt()}
+        else if(eleccion == 7){
+            print("Introduce el primer numero: ")
+            n1 = readln().toInt()
 
-                print("Introduce el segundo numero: ")
-                n2 = readln().toInt()
-                print("\n Que operacion deseas realizar: ")
-                eleccion = readln().toInt()
-            }
-            8-> {
-                salida = false
-                print("Saliendo...")
-            }
-
-
-
-
-
-
+            print("Introduce el segundo numero: ")
+            n2 = readln().toInt()
+            print("\n Que operacion deseas realizar: ")
+            eleccion = readln().toInt()
         }
+        else if(eleccion == 8){
+            salida = false
+        }else{
+            print("Elige algo dentro de los parametros: ")
+            eleccion = readln().toInt()
+        }
+
 
     }
 
