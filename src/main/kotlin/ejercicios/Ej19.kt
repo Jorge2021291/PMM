@@ -28,7 +28,7 @@ fun main() {
 
     while(salida){
         if(eleccion == 1){
-            print(n1+n2);
+            print(n1+n2)
                 print("\n" +
                         " Que operacion deseas realizar: ")
                 eleccion = readln().toInt()

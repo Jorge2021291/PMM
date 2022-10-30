@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="906a6cf1-70f0-43a1-b220-1b1bad2454e5" name="Changes" comment="17 end">
+    <list default="true" id="906a6cf1-70f0-43a1-b220-1b1bad2454e5" name="Changes" comment="19 done">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/ejercicios/ej20.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/kotlin/ejercicios/Ej19.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/ejercicios/Ej19.kt" afterDir="false" />
     </list>
@@ -50,14 +51,7 @@
       <recent name="D:\Users\JorgeYu\Documents\PMM\UD2\untitled\src\main\kotlin\ejercicios" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin.Ej19Kt">
-    <configuration name="Ej15Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ejercicios.Ej15Kt" />
-      <module name="untitled" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Kotlin.Ej20Kt">
     <configuration name="Ej16Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ejercicios.Ej16Kt" />
       <module name="untitled" />
@@ -86,13 +80,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Ej20Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ejercicios.Ej20Kt" />
+      <module name="untitled" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.Ej20Kt" />
         <item itemvalue="Kotlin.Ej19Kt" />
         <item itemvalue="Kotlin.Ej18Kt" />
         <item itemvalue="Kotlin.Ej17Kt" />
         <item itemvalue="Kotlin.Ej16Kt" />
-        <item itemvalue="Kotlin.Ej15Kt" />
       </list>
     </recent_temporary>
   </component>
@@ -126,7 +127,14 @@
       <option name="project" value="LOCAL" />
       <updated>1666340570926</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="19 done">
+      <created>1667159956320</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1667159956320</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -144,6 +152,7 @@
     <MESSAGE value="17" />
     <MESSAGE value="17 end" />
     <MESSAGE value="18 end" />
-    <option name="LAST_COMMIT_MESSAGE" value="18 end" />
+    <MESSAGE value="19 done" />
+    <option name="LAST_COMMIT_MESSAGE" value="19 done" />
   </component>
 </project>
